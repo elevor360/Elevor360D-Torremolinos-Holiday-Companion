@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "torremolinos-companion",
+  "group": "holiday",
+  "refreshMinutes": 30
+}

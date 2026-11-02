@@ -1,0 +1,1 @@
+Torremolinos V2 advertising edition. Use Universal Advertising Manager V1 to export adverts.json. Upload it to advertising/adverts.json and put advert images in advertising/images/. This sample advert is included. Existing destination guide manager remains separate.
